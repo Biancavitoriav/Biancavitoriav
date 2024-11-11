@@ -1,4 +1,4 @@
-<h4>Hi, i'm Bia :)</h1>
+<h2>Hi, i'm Bia :)</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> I'm a back-end developer and a Instituto J&F student</p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
