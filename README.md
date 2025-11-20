@@ -1,5 +1,6 @@
-<h2>Hi, i'm Bia :)</h1>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>I'm a full-stack developer at PicPay and a Instituto J&F student</p>
+<h2>Hi, i'm Bia ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧</h1>
+I'm a full-stack developer at PicPay and a Instituto J&F student</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -87,6 +88,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bianca-veloso-65a381276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+
 
 
 
