@@ -3,7 +3,8 @@
 <p>
 Full-stack Developer at <strong>PicPay</strong> <br>
 Former Student at <strong>Instituto J&F</strong>
-I enjoy building scalable solutions, exploring new technologies, and constantly improving ideas with a user-centered mindset.
+
+  I enjoy building scalable solutions, exploring new technologies, and constantly improving ideas with a user-centered mindset!!
 </p>
 
 ---
@@ -75,4 +76,5 @@ I enjoy building scalable solutions, exploring new technologies, and constantly 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 </p>
+
 
