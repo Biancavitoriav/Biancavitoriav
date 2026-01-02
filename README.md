@@ -68,26 +68,6 @@ I enjoy building scalable solutions, exploring new technologies, and constantly 
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<img align="right" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&layout=compact"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark"/>
-</p>
-
-<br>
-
----
-
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
@@ -95,3 +75,4 @@ I enjoy building scalable solutions, exploring new technologies, and constantly 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 </p>
+
