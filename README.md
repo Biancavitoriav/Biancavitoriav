@@ -2,10 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/74029212/127240963-4921a6aa-a682-4868-9ce5-a9ca6936c8fc.gif" width="110" alt="Drink water gif" />
 
-<h1>Hi, I'm Bia!</h1>
+<h2>Hi, I'm Bia!</h2>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ea9a97&center=true&vCenter=true&width=500&lines=Software+Engineer+at+PicPay;Full-Stack+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ea9a97&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
