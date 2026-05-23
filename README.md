@@ -25,7 +25,9 @@
 
 ### ⸜(｡˃ ᵕ ˂ )⸝ About Me
 
-Full-Stack Software Engineer with a solid background in building robust and scalable systems, specializing in **Legal Tech, Compliance, and Human Resources**. On the front-end, I build dynamic interfaces with **Angular, TypeScript, and Next.js**; on the back-end, high-performance systems with **Java and Spring Boot**. I also have hands-on experience in **Data Engineering**, designing large-scale pipelines with Apache Spark, Airflow, and Databricks. Always learning something new! ˘ᵕ˘
+Full-Stack Software Engineer with a solid background in building robust and scalable systems, specializing in **Legal Tech, Compliance, and Human Resources**. 
+On the front-end, I build dynamic interfaces with **Angular, TypeScript, and Next.js**; on the back-end, high-performance systems with **Java and Spring Boot**. 
+I also have hands-on experience in **Data Engineering**, designing large-scale pipelines with Apache Spark, Airflow, and Databricks. Always learning something new! ˘ᵕ˘
 
 ---
 
